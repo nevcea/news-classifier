@@ -4,4 +4,4 @@ sentence-transformers>=5.4.1,<6.0.0
 numpy>=2.0.0,<3.0.0
 torch>=2.5.0,<3.0.0
 ruff>=0.15.11,<1.0.0
-pytest>=7.0.0,<10.0.0
+pytest>=9.0.3,<10.0.0
