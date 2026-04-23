@@ -1,0 +1,28 @@
+feeds:
+  source_groups:
+    security_sources:
+      - https://feeds.feedburner.com/TheHackersNews
+      - https://www.bleepingcomputer.com/feed/
+      - https://krebsonsecurity.com/feed/
+
+    ai_sources:
+      - https://openai.com/news/rss.xml
+      - https://huggingface.co/blog/feed.xml
+      - https://deepmind.com/blog/rss.xml
+
+    cloud_sources:
+      - https://aws.amazon.com/blogs/aws/feed/
+      - https://cloudblog.withgoogle.com/rss/
+
+    dev_sources:
+      - https://www.smashingmagazine.com/feed/
+      - https://css-tricks.com/feed/
+      - https://javascriptweekly.com/rss/
+
+    data_sources:
+      - https://www.databricks.com/feed
+
+    general_sources:
+      - https://feeds.arstechnica.com/arstechnica/index
+      - https://techcrunch.com/feed/
+      - https://www.theverge.com/rss/index.xml

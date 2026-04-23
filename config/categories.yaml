@@ -1,0 +1,196 @@
+categories:
+  SECURITY:
+    description: "Cybersecurity, vulnerabilities, exploits, breaches, malware, ransomware, threat actors"
+    prototypes:
+      - "A critical vulnerability allows remote code execution on servers."
+      - "A ransomware attack targeted enterprise systems and encrypted data."
+      - "Researchers disclosed a zero-day exploit used in the wild."
+      - "A major data breach exposed sensitive user information."
+      - "Security analysts discovered a new malware campaign."
+      - "Hackers exploited a software vulnerability to gain access."
+      - "A cybersecurity incident affected production infrastructure."
+      - "A new phishing attack is targeting enterprise employees."
+      - "A security flaw was found in a widely used library."
+      - "Attackers are using a new exploit technique in real-world attacks."
+
+  AI:
+    description: "AI/ML model architecture, training, inference, reasoning, multimodal, benchmarks, and model capability evaluations"
+    prototypes:
+      - "Researchers published a new transformer architecture achieving state-of-the-art reasoning performance."
+      - "A language model was trained using a novel pretraining objective on a large text corpus."
+      - "A new inference optimization reduces latency and memory footprint of large language models."
+      - "A multimodal model processes text, images, and video in a unified neural architecture."
+      - "A model achieved top scores on standard reasoning and language understanding benchmarks."
+      - "Researchers proposed a new training algorithm for improving neural network generalization."
+      - "A diffusion model improved image generation quality through architectural changes."
+      - "Fine-tuning techniques were studied to improve domain-specific model accuracy."
+      - "AI safety researchers evaluated model robustness and alignment under adversarial conditions."
+      - "An open-source model release includes pretrained weights and benchmark results on capability evaluations."
+      - "A new reinforcement learning method improved agent performance on complex decision-making tasks."
+      - "A new benchmark was introduced to measure language model reasoning, coding, and world knowledge."
+      - "A model evaluation leaderboard released updated rankings across reasoning, instruction following, and coding tasks."
+      - "A speech or vision model improved performance on recognition and understanding benchmarks."
+      - "A new language model was announced with documented performance gains on standard capability benchmarks."
+      - "A company released a new large language model, multimodal model, or frontier model family with benchmark results."
+      - "An API launched new image generation, audio generation, speech, or reasoning model capabilities for developers."
+      - "Researchers released a new vision-language model, language model, or coding model with open weights or public checkpoints."
+      - "A leaderboard compared large language models, reasoning models, or coding models across standardized evaluations."
+      - "An AI lab published work on alignment, safety, model behavior, or adversarial robustness for frontier models."
+      - "A new model family announcement highlighted instruction following, tool use, long-context, or multimodal performance."
+      - "A synthetic data or post-training method improved large language model performance on reasoning or coding tasks."
+      - "An organization announced new AI research results, model capabilities, or model evaluation findings."
+      - "A benchmark, leaderboard, or evaluation measured how well AI models replicate research, solve coding tasks, or reason."
+      - "A research initiative, academy, or education effort focused on advancing AI adoption, literacy, or trustworthy use."
+      - "A model release or open-weights announcement described broader access to frontier AI capabilities."
+      - "A policy, recommendations, or public guidance document discussed the progress, societal impact, or trustworthy use of AI."
+      - "A report, recommendations document, or public survey discussed AI progress, trust, adoption, or societal outcomes."
+      - "An education, media, or research program announced new efforts to teach, study, or responsibly use AI."
+      - "A security, policy, or misuse report analyzed harmful uses of AI or ways to make AI systems safer."
+
+  CLOUD:
+    description: "Cloud infrastructure, data centers, compute clusters, deployment platforms, managed cloud services, hosting operations"
+    prototypes:
+      - "AWS launched a new EC2 instance type optimized for high-performance compute workloads."
+      - "A data center expansion adds capacity for large-scale distributed computing clusters."
+      - "Kubernetes released a new version with improved cluster autoscaling and node scheduling."
+      - "A cloud provider upgraded its network infrastructure for lower latency and higher throughput."
+      - "Azure expanded its global data center footprint with new availability zones."
+      - "Google Cloud launched a new managed service for deploying containerized workloads at scale."
+      - "A serverless platform reduced cold start latency and improved resource efficiency."
+      - "A cloud provider introduced new storage tiers for cost-optimized archival and backup workloads."
+      - "A compute cluster management tool improved GPU resource allocation for distributed training jobs."
+      - "A platform engineering team migrated production workloads to a distributed cloud infrastructure."
+      - "A cloud hosting provider announced new region availability and uptime SLA commitments."
+      - "A bare-metal cloud offering was launched for high-throughput compute and networking tasks."
+      - "A company expanded AI data center capacity, GPU clusters, or hyperscale compute infrastructure."
+      - "A provider announced a new cloud region, availability zone, or dedicated capacity for enterprise workloads."
+      - "An infrastructure partnership focused on AI supercomputing, data center buildout, or large-scale compute deployment."
+      - "A storage, networking, or container platform update improved production cloud operations and service reliability."
+      - "A managed cloud service added enterprise deployment features for large-scale AI or data workloads."
+      - "A company expanded regional presence, infrastructure footprint, or deployment capacity to support AI workloads."
+      - "A hosted platform or runtime environment launched new infrastructure capabilities for agents, applications, or enterprise workloads."
+      - "A developer guide described how to train, deploy, or run AI workloads on TPUs, GPUs, or managed cloud infrastructure."
+      - "A managed MCP server, runtime, or cloud agent platform provided infrastructure for production AI systems."
+      - "A company launched or expanded infrastructure for AI agents, inference, or model serving in production."
+
+  DEV:
+    description: "APIs, SDKs, developer tools, libraries, frameworks, release workflows, and software tooling"
+    prototypes:
+      - "A new REST API was released with updated authentication and revised endpoint documentation."
+      - "An SDK update added new client libraries for multiple programming languages."
+      - "A developer tool improved code completion, linting, and static analysis in the IDE."
+      - "A popular open-source library released a major version with breaking API changes."
+      - "A CI/CD pipeline tool introduced new workflow automation and deployment integration features."
+      - "A JavaScript framework published a major release with new rendering and hydration capabilities."
+      - "A package manager improved dependency resolution, lock file handling, and audit tooling."
+      - "A command-line tool was released to scaffold, configure, and manage developer projects."
+      - "A testing framework added new utilities for mocking, stubbing, and integration testing."
+      - "A build system improved incremental compilation and artifact caching for large codebases."
+      - "An open-source library introduced new abstractions for async programming and concurrency."
+      - "A developer platform released a new API version with expanded capabilities and rate limit changes."
+      - "An AI platform launched a new developer API, SDK, agent tool, or codex-style coding workflow."
+      - "Release notes introduced new endpoints, model APIs, function calling, or tool integration features for developers."
+      - "A coding assistant, IDE integration, or command-line developer tool added new workflows for software teams."
+      - "A platform shipped documentation, SDK, or client library updates that change how developers build integrations."
+      - "An open-source developer tool announced a major release with new plugin, extension, or automation support."
+      - "An API platform added new Responses API, agent tooling, or developer workflow features for building applications."
+      - "A developer guide showed how to connect AI systems to external tools, research tools, or MCP-compatible services."
+      - "Developer docs or release notes introduced new tools, API features, or SDK capabilities for building AI applications."
+      - "A coding, research, or MCP integration guide showed how developers can connect tools, services, or agents."
+
+  MOBILE:
+    description: "Smartphones, iOS/Android OS releases, mobile hardware, device software, app store platforms"
+    prototypes:
+      - "Apple released a new iOS version with updated features for iPhone and iPad."
+      - "Google announced a new Android OS version with updated privacy and UX capabilities."
+      - "A new flagship smartphone was announced with updated hardware, display, and processor."
+      - "A mobile operating system update improved battery life and performance on smartphones."
+      - "Apple unveiled a new iPhone model with significant camera and chip improvements."
+      - "A Samsung or Android device received a major OS update with new system features."
+      - "App Store or Google Play policy changes affect how mobile apps are reviewed and distributed."
+      - "A tablet operating system added new multitasking and stylus features for iPad or Android tablet."
+      - "A new wearable or smartwatch was released with updated sensors and mobile OS integration."
+      - "iPhone or Android phone hardware specifications and carrier availability were announced."
+      - "A mobile platform introduced new accessibility and on-device privacy features for smartphone users."
+      - "A mobile OS update patched device-level security vulnerabilities on iOS or Android."
+
+  DATA:
+    description: "Data pipelines, ETL, data warehouses, analytics platforms, databases, vector search, and data infrastructure"
+    prototypes:
+      - "A data pipeline framework improved stream processing throughput and fault tolerance at scale."
+      - "A vector indexing library released a new approximate nearest neighbor search algorithm."
+      - "An analytics platform added SQL-based querying and visualization over large structured datasets."
+      - "A data warehouse product expanded support for semi-structured and nested data formats."
+      - "An ETL tool improved schema inference and data transformation for large-scale ingestion pipelines."
+      - "A data catalog system added lineage tracking and metadata management across data sources."
+      - "A columnar storage format improved compression and query performance for analytical workloads."
+      - "A graph database added new traversal capabilities for relationship-heavy data modeling."
+      - "A streaming data platform improved real-time ingestion and exactly-once delivery guarantees."
+      - "A distributed query engine added support for federated queries across multiple data sources."
+      - "A database migration tool added schema versioning and automated rollback capabilities."
+      - "A data observability platform introduced automated quality checks and anomaly detection for pipelines."
+
+  BUSINESS:
+    description: "Funding rounds, acquisitions, partnerships, pricing changes, revenue, commercial strategy, org structure"
+    prototypes:
+      - "A venture capital firm led a Series B funding round for a technology startup."
+      - "A technology company completed the acquisition of a smaller software firm for an undisclosed sum."
+      - "A company announced a strategic partnership to co-develop products and expand enterprise market reach."
+      - "A SaaS provider revised its pricing tiers and introduced a new enterprise licensing plan."
+      - "A company reported quarterly revenue growth and updated its full-year financial forecast."
+      - "A technology firm restructured its executive leadership team and reorganized its business units."
+      - "A startup raised seed funding to commercialize its research and scale its go-to-market efforts."
+      - "A company disclosed plans to expand operations into new geographic markets."
+      - "A vendor announced revised commercial licensing terms and updated its usage policy."
+      - "An AI company signed a multi-year enterprise deal worth hundreds of millions of dollars."
+      - "A company announced layoffs and cost reduction measures to improve operating margins."
+      - "Two companies announced a joint venture to combine resources and co-develop commercial products."
+      - "A firm disclosed merger discussions or was reported as a potential acquisition target."
+      - "A company IPO filing revealed revenue figures and future growth projections."
+      - "A company announced new funding, debt financing, or a capital raise to expand technology operations."
+      - "A firm signed a strategic partnership to scale AI adoption, enterprise distribution, or go-to-market reach."
+      - "An organization expanded business operations, customer growth, or enterprise adoption in a region or vertical."
+      - "A company discussed pricing, commercial packaging, subscriptions, or monetization changes for enterprise customers."
+      - "A vendor highlighted customer wins, market expansion, or commercial traction for an AI or software product."
+      - "A technology company formed an industrial or supply chain partnership to expand manufacturing and infrastructure."
+      - "A company announced a strategic partnership, alliance, or collaboration to expand enterprise AI adoption."
+      - "An economic blueprint, adoption plan, or national initiative described how AI would drive business growth."
+      - "A customer adoption story showed an enterprise using AI to improve operations, productivity, or revenue outcomes."
+      - "A company reported business traction, customer momentum, or commercial expansion for its AI products."
+      - "An enterprise deployment or go-to-market update focused on customers, partnerships, or market expansion."
+      - "A policy proposal, action plan, or regional initiative described how AI would shape economic growth and competitiveness."
+      - "A partnership with a government, alliance, or industry group focused on expanding AI adoption, prosperity, or innovation."
+      - "A company or region announced an AI opportunity plan, expansion strategy, or adoption roadmap for business growth."
+
+thresholds:
+  # Global defaults keep the fallback conservative, while per-label overrides
+  # relax categories that repeatedly produced strong near-misses in logs.
+  min_score: 0.40
+  min_margin: 0.10
+  min_score_by_label:
+    AI: 0.37
+    BUSINESS: 0.38
+    DEV: 0.38
+    CLOUD: 0.38
+  min_margin_by_label:
+    AI: 0.06
+    BUSINESS: 0.08
+    DEV: 0.08
+    CLOUD: 0.07
+  min_margin_by_pair:
+    AI:
+      DEV: 0.03
+      CLOUD: 0.04
+      BUSINESS: 0.04
+    BUSINESS:
+      AI: 0.04
+      CLOUD: 0.04
+      DEV: 0.04
+    CLOUD:
+      BUSINESS: 0.04
+      AI: 0.04
+      DEV: 0.06
+    DEV:
+      AI: 0.04
+      CLOUD: 0.06
+      BUSINESS: 0.06
